@@ -36,7 +36,7 @@ DJANGO_APPS = [
     'django.contrib.staticfiles',
 ]
 CUSTOM_APPS = [
-
+    'users',
 ]
 THIRD_PARTY_APPS = [
     'rest_framework',
