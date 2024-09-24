@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+.DS_Store
+.python-version
+.env.*
+.env
+.secret_json
